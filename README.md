@@ -69,7 +69,7 @@ O menu também apresenta:
 - créditos acadêmicos
 - interface com fonte temática inspirada em Dragon Ball
 
-| ![image](https://raw.githubusercontent.com/Brunex-Alado/01-TelaMenu.png) |
+| ![image](https://raw.githubusercontent.com/Brunex-Alado/Jogo_DBZ_Alado/refs/heads/main/asset/01-TelaMenu.png) |
 <br/>
 
 ---
@@ -95,10 +95,10 @@ Quando **Freeza** aparece:
 > **"Freeeeza! Por que você matou o Kuririn!?  
 > Eu estou nervoso!"**
 
-| ![image](https://raw.githubusercontent.com/Brunex-Alado/02-TelaLevel1.png) |
+| ![image](https://raw.githubusercontent.com/Brunex-Alado/Jogo_DBZ_Alado/refs/heads/main/asset/02-TelaLevel1.png) |
 <br/>
 
-| ![image](https://raw.githubusercontent.com/Brunex-Alado/03-TelaLevel1.png) |
+| ![image](https://raw.githubusercontent.com/Brunex-Alado/Jogo_DBZ_Alado/refs/heads/main/asset/03-TelaLevel1.png) |
 <br/>
 
 ---
@@ -123,10 +123,10 @@ Quando **Majin Boo** aparece:
 
 > **"...vou te comer, vou te comer..."**
 
-| ![image](https://raw.githubusercontent.com/Brunex-Alado/04-TelaLevel2.png) |
+| ![image](https://raw.githubusercontent.com/Brunex-Alado/Jogo_DBZ_Alado/refs/heads/main/asset/04-TelaLevel2.png) |
 <br/>
 
-| ![image](https://raw.githubusercontent.com/Brunex-Alado/05-TelaLevel2.png) |
+| ![image](https://raw.githubusercontent.com/Brunex-Alado/Jogo_DBZ_Alado/refs/heads/main/asset/05-TelaLevel2.png) |
 <br/>
 
 ---
@@ -139,7 +139,7 @@ O jogador recebe a mensagem final com seu **poder total acumulado durante a part
 
 🎵 A trilha sonora final é o **instrumental de Sorriso Resplandecente**, abertura de **Dragon Ball GT**.
 
-| ![image](https://raw.githubusercontent.com/Brunex-Alado/06-TelaScore.png) |
+| ![image](https://raw.githubusercontent.com/Brunex-Alado/Jogo_DBZ_Alado/refs/heads/main/asset/06-TelaScore.png) |
 <br/>
 
 ---
