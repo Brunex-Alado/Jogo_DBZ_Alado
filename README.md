@@ -4,7 +4,7 @@
 
 # ⬇️ Download do Jogo
 
-[![Download](https://img.shields.io/badge/⬇%20Download-Jogo%20DB%20Alado-ffcc00?style=for-the-badge&logo=windows&logoColor=black&labelColor=cc0000)](release/DB-Alado.exe)
+[![Download](https://img.shields.io/badge/⬇%20Download-Jogo%20DB%20Alado-ffcc00?style=for-the-badge&logo=windows&logoColor=black&labelColor=cc0000)](https://github.com/Brunex-Alado/Jogo_DBZ_Alado/releases/download/v1.0/DB-Alado.exe)
 
 <br>
 
